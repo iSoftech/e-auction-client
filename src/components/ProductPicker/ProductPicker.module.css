@@ -1,0 +1,14 @@
+.productContainer {
+    display: flexbox;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.productItemContainer {
+    align-items: center;
+    display: flex;
+}
+
+.formControl {
+    width: 100%;
+}

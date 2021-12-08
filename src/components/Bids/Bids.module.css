@@ -1,0 +1,11 @@
+.bidsContainer {
+    display: flexbox;
+    align-items: flex-start;
+    justify-content: center;
+    /* border: 1px solid blue; */
+}
+.bidsItemContainer {
+    /* border: 1px solid red; */
+    align-items: center;
+    display: flex;
+}

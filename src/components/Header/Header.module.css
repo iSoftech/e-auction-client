@@ -1,0 +1,23 @@
+.logo {
+    height: 100px;
+    width: 100px;
+    pointer-events: none;
+}
+
+.headerContainer {
+    justify-content: center;
+}
+
+.logoContainer {
+    justify-content: flex-end;
+    display: flex;
+}
+.titleContainer {
+    align-items: center;
+    display: flex;
+}
+.welcomeCcontainer {
+    align-items: flex-start;
+    justify-content: flex-end;
+    display: flex;
+}
